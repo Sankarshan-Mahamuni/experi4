@@ -14,7 +14,7 @@ import streamlit as st
 from PIL import Image
 
 # Open an image file
-img_path = r"C:\Users\asu65\Downloads\exp4_1.png"
+img_path = "exp4_1.png"
 img = Image.open(img_path)
 
 # Display the image using Streamlit
@@ -26,7 +26,7 @@ import streamlit as st
 from PIL import Image
 
 # Open an image file
-img_path = r"C:\Users\asu65\Downloads\exp4_2.png"
+img_path = "exp4_2.png"
 img = Image.open(img_path)
 
 # Display the image using Streamlit
@@ -39,7 +39,7 @@ import streamlit as st
 from PIL import Image
 
 # Open an image file
-img_path = r"C:\Users\asu65\Downloads\exp4_3.png"
+img_path = "exp4_3.png"
 img = Image.open(img_path)
 
 # Display the image using Streamlit
